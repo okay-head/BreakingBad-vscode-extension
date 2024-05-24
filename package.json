@@ -2,7 +2,8 @@
 	"name": "breaking-bad-quotes",
 	"displayName": "Breaking Bad quotes",
 	"description": "Random quotes from the legendary series: Breaking Bad by Vince Gilligan",
-	"version": "0.0.1",
+	"publisher": "okay-head",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.89.0"
 	},
