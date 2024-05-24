@@ -3,6 +3,9 @@
 	"displayName": "Breaking Bad quotes",
 	"description": "Random quotes from the legendary series: Breaking Bad by Vince Gilligan",
 	"publisher": "okay-head",
+	"repository": {
+		"url": "https://github.com/okay-head/BreakingBad-vscode-extension"
+	},
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.89.0"
