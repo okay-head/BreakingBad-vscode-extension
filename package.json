@@ -6,7 +6,7 @@
 	"repository": {
 		"url": "https://github.com/okay-head/BreakingBad-vscode-extension"
 	},
-	"icon": "https://raw.githubusercontent.com/okay-head/BreakingBad-vscode-extension/main/extension-icon.png",
+	"icon": "./extension-icon.png",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.89.0"
