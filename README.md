@@ -40,7 +40,7 @@ vscode: ^1.89.0
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Initial release
 
 ### 1.0.0
 
